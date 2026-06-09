@@ -25,7 +25,7 @@ function SidebarContent({ isUploading, uploadedDoc, onFileUpload, onClose }) {
                         <Bot className="w-4 h-4 text-indigo-400" />
                     </div>
                     <div>
-                        <h1 className="text-sm font-bold bg-gradient-to-r from-indigo-400 to-cyan-400 bg-clip-text text-transparent leading-tight">Devmox</h1>
+                        <h1 className="text-sm font-bold bg-gradient-to-r from-indigo-400 to-cyan-400 bg-clip-text text-transparent leading-tight">Nova AI</h1>
                         <p className="text-[9px] tracking-widest uppercase" style={{ color: 'var(--text-muted)' }}>Smart Study Assistant</p>
                     </div>
                 </div>
@@ -99,7 +99,7 @@ function SidebarContent({ isUploading, uploadedDoc, onFileUpload, onClose }) {
             </div>
 
             <div className="pt-3 border-t flex justify-between items-center text-[9px]" style={{ borderColor: 'var(--border)', color: 'var(--text-muted)' }}>
-                <span>Devmox v1.0</span>
+                <span>Nova AI v1.0</span>
                 <span className="flex items-center gap-1"><div className="w-1.5 h-1.5 rounded-full bg-emerald-500" />Online</span>
             </div>
         </div>
